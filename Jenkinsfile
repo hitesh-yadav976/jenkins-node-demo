@@ -145,5 +145,6 @@ pipeline {
         failure {
             echo 'PIPELINE FAILED - deployment was blocked'
         }
+        
     }
 }
